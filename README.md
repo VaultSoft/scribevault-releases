@@ -1,9 +1,13 @@
-# ScribeVault releases
+# ScribeVault
 
-Downloads for **ScribeVault**, offline transcription for Windows from VaultSoft. It turns
-recordings into text on your own PC and makes no network connections at all.
+**ScribeVault — offline transcription for Windows.** Turns recordings into text on your own
+PC; ScribeVault itself never opens a network connection. Free trial; £49 licence coming soon.
 
-**Product page:** <https://vaultsoft.co.uk/scribevault/>
+A transcript is a first draft to check, not a certified record. ScribeVault marks the lines
+it is least sure of, so you know where to listen again. Marked lines are the likeliest
+mistakes. Unmarked lines can still be wrong — check anything that matters against the audio.
+
+**Product page:** <https://vaultsoft.co.uk/scribevault/> · by VaultSoft
 
 This repository holds release downloads only. ScribeVault's source code isn't here.
 
